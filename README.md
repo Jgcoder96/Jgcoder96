@@ -7,7 +7,7 @@
 
 ### 📖 About Me
 
-I am a technology enthusiast living at the **intersection of hardware and software**. While my academic background is in **Electrical Engineering** (Specializing in Electronics & Control @ UCV 🎓), I’ve spent the last **4 years** deep-diving into software development.
+I am a technology enthusiast living at the **intersection of hardware and software**. While my academic background is in **Electrical Engineering** (Specializing in Electronics @ UCV 🎓), I’ve spent the last **4 years** deep-diving into software development.
 
 My main focus is building robust, scalable, and secure server-side solutions. I love solving complex logical problems and optimizing systems from the ground up.
 
