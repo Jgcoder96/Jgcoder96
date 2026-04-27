@@ -59,12 +59,6 @@ I'm a firm believer that great things happen when we share ideas! 💡 I love me
   <img src="https://streak-stats.demolab.com/?user=Jgcoder96&theme=nord&background=00000000&hide_border=true&stroke=2E3440&ring=5E81AC&fire=5E81AC&currStreakLabel=2E3440&currStreakNum=2E3440&sideLabels=2E3440&sideNums=2E3440&dates=4C566A" alt="Jgcoder96 streak" />
 </div>
 
-### 🐍 My Contribution Snake
-<div align="center">
-  <img src="https://github-user-contribution-snake.vercel.app/api/snake.svg?github_user_name=Jgcoder96&outputs=snake.svg" alt="Snake animation" />
-</div>
-
-
 <div align="center">
   <i>"As a future engineer, I don't just write code; I design systems that solve real-world problems."</i>
   <br />
