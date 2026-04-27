@@ -60,8 +60,17 @@ I'm a firm believer that great things happen when we share ideas! 💡 I love me
   <img src="https://streak-stats.demolab.com/?user=Jgcoder96&theme=nord&background=00000000&hide_border=true&stroke=2E3440&ring=5E81AC&fire=5E81AC&currStreakLabel=2E3440&currStreakNum=2E3440&sideLabels=2E3440&sideNums=2E3440&dates=4C566A" alt="Jgcoder96 streak" />
 </div>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jgcoder96/Jgcoder96/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jgcoder96/Jgcoder96/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Jgcoder96/Jgcoder96/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <div align="center">
   <i>"As a future engineer, I don't just write code; I design systems that solve real-world problems."</i>
   <br />
   <img src="https://raw.githubusercontent.com/Trinibyte/Trinibyte/main/assets/line-art.gif" width="100%">
 </div>
+
