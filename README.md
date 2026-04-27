@@ -23,6 +23,14 @@ My main focus is building robust, scalable, and secure server-side solutions. I 
 | **Infrastructure & Tools** | ![](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) |
 | **Complementary Frontend** | ![](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
 
+### 🚀 Featured Projects
+
+*   **[Access Control Backend]([https://github.com/Jgcoder96/tu-repo](https://github.com/Jgcoder96/sistema_control_acceso_backend))** — I engineered this high-performance API using **TypeScript, Node.js, and Express.js** to bridge the gap between hardware devices and software management. I integrated **MQTT and Socket.io** to handle real-time access events, while implementing secure **JWT-based authentication** and interactive **Swagger documentation**. The system relies on **Prisma/PostgreSQL** for data integrity and is fully containerized with **Docker** for a seamless deployment on **AWS EC2**.
+
+*Puedes ver más en mis repositorios fijados abajo 👇*
+
+---
+
 ### 📫 Connect with me
 
 I'm a firm believer that great things happen when we share ideas! 💡 I love meeting new people in the tech community. 🚀 If you’re curious about my journey, looking for a second pair of eyes on a project, or just want to swap some cool dev tips, my inbox is always open. Let’s grab a "virtual coffee" and chat!
