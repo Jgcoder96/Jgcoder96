@@ -19,6 +19,22 @@ My main focus is building robust, scalable, and secure server-side solutions. I 
 | **Infrastructure & Tools** | ![](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) |
 | **Complementary Frontend** | ![](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
 
+### 📊 GitHub Statistics
+
+<div align="center">
+  <!-- Tarjeta de Estadísticas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jgcoder96&show_icons=true&theme=nord&bg_color=00000000&hide_border=true&title_color=2E3440&icon_color=5E81AC&text_color=3B4252" alt="Jgcoder96 stats" />
+  
+  <!-- Tarjeta de Lenguajes -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jgcoder96&layout=compact&theme=nord&bg_color=00000000&hide_border=true&title_color=2E3440&text_color=3B4252" alt="Jgcoder96 languages" />
+</div>
+
+<div align="center">
+  <!-- Tarjeta de Racha (Streak) - COLORES CORREGIDOS PARA ALTO CONTRASTE -->
+  <img src="https://streak-stats.demolab.com/?user=Jgcoder96&theme=nord&background=00000000&hide_border=true&stroke=2E3440&ring=5E81AC&fire=5E81AC&currStreakLabel=2E3440&currStreakNum=2E3440&sideLabels=2E3440&sideNums=2E3440&dates=4C566A" alt="Jgcoder96 streak" />
+</div>
+
+
 <div align="center">
   <i>"As a future engineer, I don't just write code; I design systems that solve real-world problems."</i>
   <br />
