@@ -27,7 +27,7 @@ My main focus is building robust, scalable, and secure server-side solutions. I 
 
 *   **🔒[Access Control Backend](https://github.com/Jgcoder96/NOMBRE_DE_TU_REPOSITORIO)** — I engineered this high-performance API using **TypeScript, Node.js, and Express.js** to bridge the gap between hardware devices and software management. I integrated **MQTT and Socket.io** to handle real-time access events, while implementing secure **JWT-based authentication** and interactive **Swagger documentation**. The system relies on **Prisma/PostgreSQL** for data integrity and is fully containerized with **Docker** for a seamless deployment on **AWS EC2**.
 
-*Puedes ver más en mis repositorios fijados abajo 👇*
+*Feel free to explore more of my work in the pinned repositories below! 👇*
 
 ---
 
