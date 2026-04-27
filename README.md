@@ -11,6 +11,10 @@ I am a technology enthusiast living at the **intersection of hardware and softwa
 
 My main focus is building robust, scalable, and secure server-side solutions. I love solving complex logical problems and optimizing systems from the ground up.
 
+- 🔭 **I’m currently working on**: Access Control System.
+- 🌱 **I’m currently learning**: Cloud Architecture (AWS).
+- ⚡ **Fun fact**: I can explain how a transformer works and how a REST API works at the same time.
+
 ### 🛠️ Tech Stack
 
 | Category | Tools |
@@ -32,7 +36,6 @@ I'm a firm believer that great things happen when we share ideas! 💡 I love me
   </a>
 </p>
 
-
 ### 📊 GitHub Statistics
 
 <div align="center">
@@ -46,6 +49,11 @@ I'm a firm believer that great things happen when we share ideas! 💡 I love me
 <div align="center">
   <!-- Tarjeta de Racha (Streak) - COLORES CORREGIDOS PARA ALTO CONTRASTE -->
   <img src="https://streak-stats.demolab.com/?user=Jgcoder96&theme=nord&background=00000000&hide_border=true&stroke=2E3440&ring=5E81AC&fire=5E81AC&currStreakLabel=2E3440&currStreakNum=2E3440&sideLabels=2E3440&sideNums=2E3440&dates=4C566A" alt="Jgcoder96 streak" />
+</div>
+
+### 🐍 My Contribution Snake
+<div align="center">
+  <img src="https://github-user-contribution-snake.vercel.app/api/snake.svg?github_user_name=Jgcoder96&outputs=snake.svg" alt="Snake animation" />
 </div>
 
 
