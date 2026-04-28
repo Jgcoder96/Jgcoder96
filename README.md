@@ -26,11 +26,38 @@ My main focus is building robust, scalable, and secure server-side solutions. I 
 
 ### 🚀 Featured Projects
 
-*   **🔒[Access Control Backend](https://github.com/Jgcoder96/NOMBRE_DE_TU_REPOSITORIO)** — I engineered this high-performance API using **TypeScript, Node.js, and Express.js** to bridge the gap between hardware devices and software management. I integrated **MQTT and Socket.io** to handle real-time access events, while implementing secure **JWT-based authentication** and interactive **Swagger documentation**. The system relies on **Prisma/PostgreSQL** for data integrity and is fully containerized with **Docker** for a seamless deployment on **AWS EC2**.
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="100%">
+        <h3 align="center">🔒 Access Control Backend</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        </p>
+        <p>
+          High-performance API designed to bridge the gap between hardware and software. 
+          Managed real-time access events through <b>MQTT and Socket.io</b>, ensuring 100% data integrity with Prisma.
+        </p>
+        <ul>
+          <li>🔐 <b>Security:</b> Robust JWT-based authentication.</li>
+          <li>📊 <b>Documentation:</b> Fully interactive Swagger UI.</li>
+          <li>☁️ <b>Deployment:</b> Containerized with Docker and hosted on AWS EC2.</li>
+        </ul>
+        <div align="center">
+          <a href="https://github.com/Jgcoder96/sistema_control_acceso_backend">
+            <img src="https://img.shields.io/badge/View_Project_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 *Feel free to explore more of my work in the pinned repositories below! 👇*
-
----
 
 ### 📫 Connect with me
 
