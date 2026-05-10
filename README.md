@@ -75,15 +75,6 @@ I'm a firm believer that great things happen when we share ideas! 💡 I love me
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <!-- Tarjeta de Estadísticas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jgcoder96&show_icons=true&theme=nord&bg_color=00000000&hide_border=true&title_color=2E3440&icon_color=5E81AC&text_color=3B4252" alt="Jgcoder96 stats" />
-  
-  <!-- Tarjeta de Lenguajes -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jgcoder96&layout=compact&theme=nord&bg_color=00000000&hide_border=true&title_color=2E3440&text_color=3B4252" alt="Jgcoder96 languages" />
-</div>
-
-<div align="center">
-  <!-- Tarjeta de Racha (Streak) - COLORES CORREGIDOS PARA ALTO CONTRASTE -->
   <img src="https://streak-stats.demolab.com/?user=Jgcoder96&theme=nord&background=00000000&hide_border=true&stroke=2E3440&ring=5E81AC&fire=5E81AC&currStreakLabel=2E3440&currStreakNum=2E3440&sideLabels=2E3440&sideNums=2E3440&dates=4C566A" alt="Jgcoder96 streak" />
 </div>
 
